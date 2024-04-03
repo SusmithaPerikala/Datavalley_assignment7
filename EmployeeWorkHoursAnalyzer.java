@@ -23,9 +23,9 @@ public class EmployeeWorkHoursAnalyzer {
         // Sample employee work hours data
         List<EmployeeWorkHours> workHoursList = Arrays.asList(
             new EmployeeWorkHours("Employee1", new int[]{8, 8, 8, 8, 8}),
-            new EmployeeWorkHours("Employee2", new int[]{9, 8, 7, 8, 9}),
-            new EmployeeWorkHours("Employee3", new int[]{8, 8, 9, 8, 8}),
-            new EmployeeWorkHours("Employee4", new int[]{7, 7, 6, 8, 8}),
+            new EmployeeWorkHours("Employee2", new int[]{7, 8, 8, 9, 9}),
+            new EmployeeWorkHours("Employee3", new int[]{8, 8, 8, 8,9}),
+            new EmployeeWorkHours("Employee4", new int[]{6, 7, 7, 8, 8}),
             new EmployeeWorkHours("Employee5", new int[]{10, 10, 10, 10, 10})
         );
 
